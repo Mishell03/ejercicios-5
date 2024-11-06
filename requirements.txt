@@ -1,6 +1,4 @@
 
-# Requerimientos para ejecutar la aplicación en Streamlit
-
 streamlit==1.25.0
 pulp==2.7.0
 pandas==2.1.1
